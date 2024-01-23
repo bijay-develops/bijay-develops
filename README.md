@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **React, JavaScript, Nodejs, Express.js, Hugo,etc**
 
-- 📫 How to reach me [**Mail**](bijaybk307@gmail.com)
+- 📫 How to reach me bijaybk307@gmail.com
 
 - ⚡ Fun fact **I love Sarcasm.**
 
