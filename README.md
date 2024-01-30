@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on [Aradhana-Platform](https://github.com/bijay9800/Aradhana-Platform)
 
-- 💬 Ask me about **React, JavaScript, Nodejs, Express.js, Hugo,etc**
+- 💬 Ask me about **JavaScript,React, Nodejs, Express.js, Hugo,etc**
 
 - 📫 How to reach me bijaybk307@gmail.com
 
