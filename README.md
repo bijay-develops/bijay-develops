@@ -1,7 +1,9 @@
-<h1 align="center">Hi 👋, I'm BIJAY B.K.</h1>
+<h1 align="center">Hello Devs! 👋, I'm BIJAY B.K.</h1>
 <h3 align="center">A passionate full-stack JavaScript developer from NEPAL</h3>
 
 - 🌱 I’m currently learning **Java**
+
+- ⚡ I love reading Documentation and utilizing time researching the revolutionary Coding Genre... 
 
 - 👯 I’m looking to collaborate on [Aradhana-Platform](https://github.com/bijay9800/Aradhana-Platform)
 
