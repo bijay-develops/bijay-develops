@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm BIJAY B.K.</h1>
-<h3 align="center">A passionate full-stack developer from NEPAL</h3>
+<h3 align="center">A passionate full-stack JavaScript developer from NEPAL</h3>
 
 - 🌱 I’m currently learning **Java**
 
