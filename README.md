@@ -1,7 +1,7 @@
 <h1 align="center">Hello Devs! 👋, I'm BIJAY B.K.</h1>
 <h3 align="center">A passionate full-stack JavaScript developer from NEPAL</h3>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Machine Learning - AI**
 
 - ⚡ I love reading Documentation and utilizing time researching the revolutionary Coding Genre... 
 
