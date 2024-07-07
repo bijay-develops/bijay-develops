@@ -5,9 +5,9 @@
 
 - ⚡ I love reading Documentation and utilizing time researching the revolutionary Coding Genre... 
 
-- 👯 I’m looking to collaborate on [Aradhana-Platform](https://github.com/bijay9800/Aradhana-Platform)
+<!--- 👯 I’m looking to collaborate on [Aradhana-Platform](https://github.com/bijay9800/Aradhana-Platform)-->
 
-- 💬 Ask me about **JavaScript,React, Nodejs, Express.js, Hugo,etc**
+- 💬 Ask me about **JavaScript, Python, Reactjs, Nodejs, Express.js, Django,etc**
 
 - 📫 How to reach me bijaybk307@gmail.com
 
