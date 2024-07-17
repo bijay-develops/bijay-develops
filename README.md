@@ -23,6 +23,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+
 <p align="left">
   <a href="https://appwrite.io" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/>
@@ -122,5 +123,8 @@
   </a>
 </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bijay-develops&show_icons=true&locale=en&layout=compact" alt="MythicPlayer1" /></p>
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/bijay"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/bijay" /></a></p><br><br>
+
+
