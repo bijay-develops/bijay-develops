@@ -123,7 +123,7 @@
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bijay-develops&show_icons=true&locale=en&layout=compact" alt="MythicPlayer1" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bijay-develops&show_icons=true&locale=en&layout=compact" alt="bijay-develops" /></p>
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/bijay"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/bijay" /></a></p><br><br>
 
