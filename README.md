@@ -1,5 +1,14 @@
 <h1 align="center">Hello Devs! 👋, I'm BIJAY B.K.</h1>
 <h3 align="center">A passionate full-stack JavaScript developer from NEPAL</h3>
+<!-- <img align="center" src="https://i.ibb.co/Lx4BgdQ/291898125-1479465415856980-6911077526514162129-n-modified-removebg-preview.png"/>
+<img align="center" src="https://i.ibb.co/Lx4BgdQ/291898125-1479465415856980-6911077526514162129-n-modified-removebg-preview.png"/>-->
+
+<hr>
+<div style=" display: flex; justify-content: center;">
+  <img style="height: 500px;" src="https://avatars.githubusercontent.com/u/125327818?s=400&u=864deefc6671c1adc452094f5d0286b6a1be5d21&v=4" alt="Image description 1">
+  <img style="height: 450px;" src="https://scontent.fktm10-1.fna.fbcdn.net/v/t39.30808-6/469167628_122177987840139378_8342772365116803009_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeEoS9D6zSHhGNLu_kJV3Fq3eRExoSFlLVx5ETGhIWUtXNh3BPZ72rWyVoMssr4uhbh3MtunAC4yrrzOvspgLUZq&_nc_ohc=Aitb1TQ0rWUQ7kNvgG4lkgs&_nc_zt=23&_nc_ht=scontent.fktm10-1.fna&_nc_gid=AuFcnhQtjzKaDDeaPMT6oRw&oh=00_AYAr_9Mqh-JWodUhfVHkGrPM_nFCrBrzZOmqF2Z5klqIgQ&oe=67569ADF" alt="Image description 2">
+</div>
+<hr>
 
 - 🌱 I’m currently learning **Machine Learning - AI**
 
@@ -124,6 +133,7 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bijay-develops&show_icons=true&locale=en&layout=compact" alt="bijay-develops" /></p>
+<img src="https://github-readme-stats.vercel.app/api?username=bijay-develops&&show_icons=true&title_color=ffffff&icon_color=ffffff&text_color=daf7dc&bg_color=e83640" />
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/bijay"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/bijay" /></a></p><br><br>
 
