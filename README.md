@@ -5,8 +5,8 @@
 
 <hr>
 <div style=" display: flex; justify-content: center;">
-  <img style="height: 500px;" src="https://avatars.githubusercontent.com/u/125327818?s=400&u=864deefc6671c1adc452094f5d0286b6a1be5d21&v=4" alt="Image description 1">
-  <img style="height: 450px;" src="https://scontent.fktm10-1.fna.fbcdn.net/v/t39.30808-6/469167628_122177987840139378_8342772365116803009_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeEoS9D6zSHhGNLu_kJV3Fq3eRExoSFlLVx5ETGhIWUtXNh3BPZ72rWyVoMssr4uhbh3MtunAC4yrrzOvspgLUZq&_nc_ohc=Aitb1TQ0rWUQ7kNvgG4lkgs&_nc_zt=23&_nc_ht=scontent.fktm10-1.fna&_nc_gid=AuFcnhQtjzKaDDeaPMT6oRw&oh=00_AYAr_9Mqh-JWodUhfVHkGrPM_nFCrBrzZOmqF2Z5klqIgQ&oe=67569ADF" alt="Image description 2">
+  <img style="height: 250px;" src="https://avatars.githubusercontent.com/u/125327818?s=400&u=864deefc6671c1adc452094f5d0286b6a1be5d21&v=4" alt="Image description 1">
+  <img style="height: 250px;" src="https://scontent.fktm10-1.fna.fbcdn.net/v/t39.30808-6/469167628_122177987840139378_8342772365116803009_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeEoS9D6zSHhGNLu_kJV3Fq3eRExoSFlLVx5ETGhIWUtXNh3BPZ72rWyVoMssr4uhbh3MtunAC4yrrzOvspgLUZq&_nc_ohc=Aitb1TQ0rWUQ7kNvgG4lkgs&_nc_zt=23&_nc_ht=scontent.fktm10-1.fna&_nc_gid=AuFcnhQtjzKaDDeaPMT6oRw&oh=00_AYAr_9Mqh-JWodUhfVHkGrPM_nFCrBrzZOmqF2Z5klqIgQ&oe=67569ADF" alt="Image description 2">
 </div>
 <hr>
 
