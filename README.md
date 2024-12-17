@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full-stack JavaScript developer from NEPAL</h3>
 <!-- <img align="center" src="https://i.ibb.co/Lx4BgdQ/291898125-1479465415856980-6911077526514162129-n-modified-removebg-preview.png"/>
 <img align="center" src="https://i.ibb.co/Lx4BgdQ/291898125-1479465415856980-6911077526514162129-n-modified-removebg-preview.png"/>-->
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=bijay-develops&label=Bijay's_Profile%20views&color=a146f9&style=flat" alt="" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=bijay-develops&label=Bijay's_Profile%20views_(2025)👉&color=a146f9&style=flat" alt="" /> </p>
 
 <hr>
 <div align="center" style=" display: flex; justify-content: center;">
