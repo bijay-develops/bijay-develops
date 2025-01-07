@@ -11,13 +11,13 @@
 </div>
 <hr>
 
-- 🌱 I’m currently learning **Machine Learning - AI**
+- 🌱 I’m currently exploring **Databases**
 
 - ⚡ I love reading Documentation and utilizing time researching the revolutionary Coding Genre... 
 
 <!--- 👯 I’m looking to collaborate on [Aradhana-Platform](https://github.com/bijay9800/Aradhana-Platform)-->
 
-- 💬 Ask me about **JavaScript, Python, Reactjs, Nodejs, Express.js, Django,etc**
+- 💬 Ask me about **JavaScript, Reactjs, Nodejs, Express.js, etc**
 
 - 📫 How to reach me bijaybk307@gmail.com
 
