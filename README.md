@@ -2,12 +2,12 @@
 <h3 align="center">A passionate full-stack JavaScript developer from NEPAL</h3>
 <!-- <img align="center" src="https://i.ibb.co/Lx4BgdQ/291898125-1479465415856980-6911077526514162129-n-modified-removebg-preview.png"/>
 <img align="center" src="https://i.ibb.co/Lx4BgdQ/291898125-1479465415856980-6911077526514162129-n-modified-removebg-preview.png"/>-->
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=bijay-develops&label=Bijay's_Profile%20views_(2025)👉&color=a146f9&style=flat" alt="" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=bijay-develops&label=_Profile%20views_(2025)👉&color=a146f9&style=flat" alt="" /> </p>
 
 <hr>
 <div align="center" style=" display: flex; justify-content: center;">
   <img style="height: 250px;" src="https://avatars.githubusercontent.com/u/125327818?s=400&u=864deefc6671c1adc452094f5d0286b6a1be5d21&v=4" alt="Image description 1">
-  <img style="height: 250px;" src="https://scontent.fktm10-1.fna.fbcdn.net/v/t39.30808-6/469167628_122177987840139378_8342772365116803009_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeEoS9D6zSHhGNLu_kJV3Fq3eRExoSFlLVx5ETGhIWUtXNh3BPZ72rWyVoMssr4uhbh3MtunAC4yrrzOvspgLUZq&_nc_ohc=r66EcPw_3v4Q7kNvgEKm-n6&_nc_oc=AdjKPczJeg63Tr8YkXSxp4TkXFmFxjAG4dIHqxsJsuy7-YiOzgg5MaT-II-w0iDL1X0&_nc_zt=23&_nc_ht=scontent.fktm10-1.fna&_nc_gid=AkNDO69nG81OgPVp5tdXV0Q&oh=00_AYANklcLvRYKPo70v2JWcUlTpWBdMDjzFKE4ygrJQX1kIw&oe=6769F0DF" alt="Image description 2">
+  <img style="height: 250px;" src="https://avatars.githubusercontent.com/u/190657913?s=400&u=914e17b23f4ce17ce8d065f2bcf11d63749228ec&v=4" alt="The Webspace">
 </div>
 <hr>
 
