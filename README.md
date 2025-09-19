@@ -1,6 +1,3 @@
-# Hello Devs! 👋 I'm BIJAY B.K.
-
-### A passionate full‑stack JavaScript developer from Nepal 🇳🇵
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bijay-develops&label=_Profile%20views_(2025)👉&color=a146f9&style=flat" alt="Profile Views"/>
@@ -8,11 +5,11 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=600&color=8A2BE2&center=true&vCenter=true&width=750&lines=Hello+Devs!+👋+I'm+BIJAY+B.K.;Full-stack+JavaScript+Engineer;System+Architect+⚙️;Postgres+Enthusiast+📊;DevOps+%26+CI/CD+Pipeline+Wizard;Security+🔒+Performance+🔥" alt="Typing Animation">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=600&color=8A2BE2&center=true&vCenter=true&width=750&lines=Hello+Devs!+%F0%9F%91%8B+I'm+BIJAY+B.K.;Full-stack+JavaScript+Engineer;System+Architect+%E2%9A%99%EF%B8%8F;Postgres+Enthusiast+%F0%9F%93%8A;DevOps+%26+CI%2FCD+Pipeline+Wizard;Security+%F0%9F%94%92+Performance+%F0%9F%94%A5" alt="Typing Animation">
 </p>
 
 ---
-
+<!--
 ## 👤 About Me
 
 <div align="center">
@@ -21,8 +18,60 @@
 </div>
 
 ---
+-->
 
-## 📖 myStudies
+<div align="center">
+
+## � What Drives Me
+
+```yaml
+passion_areas:
+  🏗️ System Architecture: "Designing scalable, robust software ecosystems"
+  🐘 PostgreSQL: "Crafting high-performance database solutions"  
+  🔄 DevOps & CI/CD: "Automating deployment pipelines for seamless delivery"
+  🛡️ Security: "Building fortress-like applications with zero compromise"
+  ⚡ Performance: "Optimizing every millisecond for lightning-fast experiences"
+
+dedication_level: "💯 Totally committed"
+learning_mode: "🔥 Always evolving"
+```
+
+</div>
+
+<div align="center">
+  
+**🎯 My Focus Areas**
+
+<table>
+<tr>
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/System-Architecture-FF6B6B?style=for-the-badge&logo=apache&logoColor=white"/>
+<br/><sub><b>🏗️ Scalable Design</b></sub>
+</td>
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/PostgreSQL-Database-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<br/><sub><b>🐘 Data Mastery</b></sub>
+</td>
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/DevOps-CI%2FCD-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<br/><sub><b>🔄 Automation</b></sub>
+</td>
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/Security-First-FF4081?style=for-the-badge&logo=shield&logoColor=white"/>
+<br/><sub><b>🛡️ Protection</b></sub>
+</td>
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/Performance-Optimization-4CAF50?style=for-the-badge&logo=speedtest&logoColor=white"/>
+<br/><sub><b>⚡ Speed</b></sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## �📖 myStudies
 
 This is my GitHub‑hosted site where I upload research papers and articles I've read, along with short reflections and comments.
 
@@ -46,15 +95,16 @@ Next.js · Fastify · Hono · PostgreSQL · Supabase · Docker · CI/CD
 $ passion
 ⚡ building robust systems · 🛡️ security · 🚀 performance
 
-$ project highlight
+$ research highlight
 📚 myStudies → https://bijay-develops.github.io/myStudies/
 ```
 
 ---
 
-## 🌐 Connect with Me
 
 <div align="center">
+
+## 🌐 Connect with Me
   
 **Links:** 
 [📧 Email](mailto:bijaybk307@gmail.com) • 
@@ -66,8 +116,4 @@ $ project highlight
 
 </div>
 
----
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bijay-develops&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
-</div>
