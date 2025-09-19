@@ -1,25 +1,73 @@
-<h1 align="center">Hello Devs! 👋, I'm BIJAY B.K.</h1>
-<h3 align="center">A passionate full-stack JavaScript developer from NEPAL</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=bijay-develops&label=_Profile%20views_(2025)👉&color=a146f9&style=flat" alt="" /> </p>
+# Hello Devs! 👋 I'm BIJAY B.K.
 
-<hr>
-<div align="center" style=" display: flex; justify-content: center;">
-  <img style="height: 250px;" src="https://avatars.githubusercontent.com/u/125327818?s=400&u=864deefc6671c1adc452094f5d0286b6a1be5d21&v=4" alt="Image description 1">
-  <img style="height: 250px;" src="https://avatars.githubusercontent.com/u/190657913?s=400&u=914e17b23f4ce17ce8d065f2bcf11d63749228ec&v=4" alt="The Webspace">
-</div>
-<hr>
+### A passionate full‑stack JavaScript developer from Nepal 🇳🇵
 
-<div align="center" style=" display: flex; justify-content: center;">
-📫 How to reach me: bijaybk307@gmail.com
-  
-⚡ Fun fact:  **I love Sarcasm.**
-
-<h3>Connect with me:</h3>
-<p>
-<a href="https://twitter.com/k_bijay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="k_bijay" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/bijay-b-k-ba5440261/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bijay-b-k-ba5440261/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/22029408/bijay-b-k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/22029408/bijay-b-k" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/christian.bijay.9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/christian.bijay.9" height="30" width="40" /></a>
-<a href="https://leetcode.com/bijay9800/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/bijay9800/" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bijay-develops&label=_Profile%20views_(2025)👉&color=a146f9&style=flat" alt="Profile Views"/>
 </p>
+
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=600&color=8A2BE2&center=true&vCenter=true&width=750&lines=Hello+Devs!+👋+I'm+BIJAY+B.K.;Full-stack+JavaScript+Engineer;System+Architect+⚙️;Postgres+Enthusiast+📊;DevOps+%26+CI/CD+Pipeline+Wizard;Security+🔒+Performance+🔥" alt="Typing Animation">
+</p>
+
+---
+
+## 👤 About Me
+
+<div align="center">
+  <img height="200" src="https://avatars.githubusercontent.com/u/125327818?s=400&u=864deefc6671c1adc452094f5d0286b6a1be5d21&v=4" alt="Bijay Avatar" />
+  <img height="200" src="https://avatars.githubusercontent.com/u/190657913?s=400&u=914e17b23f4ce17ce8d065f2bcf11d63749228ec&v=4" alt="The Webspace" />
+</div>
+
+---
+
+## 📖 myStudies
+
+This is my GitHub‑hosted site where I upload research papers and articles I've read, along with short reflections and comments.
+
+<p align="center">
+  <a href="https://bijay-develops.github.io/myStudies/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/🔗_Explore_myStudies-8A2BE2?style=for-the-badge&logoColor=white" alt="Explore myStudies">
+  </a>
+</p>
+
+---
+
+## 💻 Terminal
+
+```bash
+$ whoami
+bijaybk — full‑stack engineer, system tinkerer
+
+$ skills --list
+Next.js · Fastify · Hono · PostgreSQL · Supabase · Docker · CI/CD
+
+$ passion
+⚡ building robust systems · 🛡️ security · 🚀 performance
+
+$ project highlight
+📚 myStudies → https://bijay-develops.github.io/myStudies/
+```
+
+---
+
+## 🌐 Connect with Me
+
+<div align="center">
+  
+**Links:** 
+[📧 Email](mailto:bijaybk307@gmail.com) • 
+[🐦 Twitter/X](https://twitter.com/k_bijay) • 
+[💼 LinkedIn](https://www.linkedin.com/in/bijay-b-k-ba5440261/) • 
+[📚 Stack Overflow](https://stackoverflow.com/users/22029408/bijay-b-k) • 
+[📘 Facebook](https://www.facebook.com/christian.bijay.9) • 
+[💡 LeetCode](https://leetcode.com/bijay9800/)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bijay-develops&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
 </div>
